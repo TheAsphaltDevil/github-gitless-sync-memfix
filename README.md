@@ -14,7 +14,7 @@ There is no fix for this in obsidian git, so I tried another plugin: github-gitl
 
 This plugin too had a crashing issue when vaults got too large.
 
-However, a specific commit made by a user fixed the bug.
+A pull request made by a user fixed the bug, but it has not been added yet.
 
 I tried installing this commit with BRAT, but BRAT only installs betas or releases of a repo, not specific commits.
 
