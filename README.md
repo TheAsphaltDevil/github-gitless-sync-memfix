@@ -1,4 +1,4 @@
-# GitHub Gitless Sync
+# GitHub Gitless Sync, Memfix edition
 
 Credit to Silvano Cerza for the original plugin.
 Credit to crypdick for the memory leak fix.
