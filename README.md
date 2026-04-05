@@ -16,7 +16,7 @@ This plugin too had a crashing issue when vaults got too large.
 
 However, a specific commit made by a user fixed the bug.
 
-I tried installing this commit with BRAT, but BRAT only installs beta releases of a repo, not specific commits.
+I tried installing this commit with BRAT, but BRAT only installs betas or releases of a repo, not specific commits.
 
 The solution? Fork the repo, add the fix, push it to main, then install with brat.
 
