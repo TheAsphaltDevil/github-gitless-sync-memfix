@@ -18,6 +18,8 @@ A pull request made by a user fixed the bug, but it has not been added yet.
 
 I tried installing this commit with BRAT, but BRAT only installs betas or releases of a repo, not specific commits.
 
+The user did not add a release to their fork.
+
 The solution? Fork the repo, add the fix, push it to main, then install with brat.
 
 
