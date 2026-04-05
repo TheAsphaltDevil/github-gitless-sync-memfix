@@ -10,7 +10,7 @@ I really wanted a plugin to sync my files for free.
 
 Obsidian git worked well, up until my vault got moderately sized. Then it would crash when redownloading all the notes.
 
-There is no fix for this in obsidian git, so I tried another plugin, github-gitless-sync.
+There is no fix for this in obsidian git, so I tried another plugin: github-gitless-sync.
 
 This plugin too had a crashing issue when vaults got too large.
 
