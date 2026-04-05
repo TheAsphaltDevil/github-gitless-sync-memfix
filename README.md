@@ -1,18 +1,27 @@
 # GitHub Gitless Sync
 
+Credit to Silvano Cerza for the original plugin.
+Credit to crypdick for the memory leak fix.
+
+
 Why this fork exists:
+
 I really wanted a plugin to sync my files for free.
-I tried obsidian git. It worked well, up until my vault got moderately sized. Then it would crash when redownloading all the notes.
+
+Obsidian git worked well, up until my vault got moderately sized. Then it would crash when redownloading all the notes.
+
 There is no fix for this in obsidian git, so I tried another plugin, github-gitless-sync.
+
 This plugin too had a crashing issue when vaults got too large.
+
 However, a specific commit made by a user fixed the bug.
+
 I tried installing this commit with BRAT, but BRAT only installs beta releases of a repo, not specific commits.
+
 The solution? Fork the repo, add the fix, push it to main, then install with brat.
 
 
-ORIGINAL README: 
-|
-V
+ORIGINAL README BELOW.
 
 Plugin to sync a GitHub repository with an Obsidian vault.
 
